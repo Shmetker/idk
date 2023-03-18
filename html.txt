@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Game Trading </title>
+</head>
+<body>
+	<header>
+		<h1>Welcome to Game Trading Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Games</a></li>
+				<li><a href="#">Consoles</a></li>
+				<li><a href="#">Accessories</a></li>
+				<li><a href="#">About Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<h2>Games Available for Trade</h2>
+		<ul>
+			<li>Garrys mod</li>
+			<li></li>
+			<li>Red dead online</li>
+			<li>assasin creed sindycate</li>
+			<li>The complex: Found footage</li>
+		</ul>
+		
+		<h2>Consoles Available for Trade</h2>
+		<ul>
+			<li>Console 1</li>
+			<li>Console 2</li>
+			<li>Console 3</li>
+			<li>Console 4</li>
+			<li>Console 5</li>
+		</ul>
+		
+		<h2>Accessories Available for Trade</h2>
+		<ul>
+			<li>Accessory 1</li>
+			<li>Accessory 2</li>
+			<li>Accessory 3</li>
+			<li>Accessory 4</li>
+			<li>Accessory 5</li>
+		</ul>
+	</main>
+	
+	<footer>
+		<p>&copy; 2023 Game Trading Website. All rights reserved.</p>
+	</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
